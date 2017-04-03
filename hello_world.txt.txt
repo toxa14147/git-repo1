@@ -5,4 +5,5 @@ print("hi")
 =======
 print("hello everybody")
 print("hello earth")
+print("hello my dier friend")
 >>>>>>> 8714a7b... здороваюсь со всеми
