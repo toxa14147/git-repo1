@@ -1,7 +1,8 @@
-print("hello world")
+﻿print("hello world")
 <<<<<<< HEAD
 print("hello everybody")
 print("hi")
 =======
 print("hello everybody")
+print("hello earth")
 >>>>>>> 8714a7b... здороваюсь со всеми
